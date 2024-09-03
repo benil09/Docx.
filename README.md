@@ -12,3 +12,6 @@ Currently, two official plugins are available:
 
 background 
 foreground
+
+
+card effect using framer motion
